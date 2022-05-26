@@ -21,5 +21,3 @@ It is a group project, where we used **Python**, **Flask**, **Flask-SQLAlchemy**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gipssik&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Gipssik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gipssik&show_icons=true&theme=tokyonight)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gipss&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
