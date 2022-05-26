@@ -4,13 +4,13 @@
 
 ⌚ I've been learning Python for almost 2 years and have created several projects.
 
-### [Observers](http://observers.gipss.tech/)
+### [Observers](http://observers.gipss.tech/) 👁️
 
 This website is a forum where programmers can ask some questions and help other people - something like Stackoverflow. 
 
 To create it I used **Python**, **FastAPI**, **SQLAlchemy**, **PostgreSQL**, **TypeScript**, **React**, **Redux** and **Tailwind**.
 
-### [Muzik](https://github.com/Gipssik/Team-Dream-Team-Music-Project)
+### [Muzik](https://github.com/Gipssik/Team-Dream-Team-Music-Project) 🎵
 
 This is a website to create bands and share music with other users of the site.
 
