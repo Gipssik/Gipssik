@@ -1,4 +1,4 @@
-## Gipssik (Hissa Dmytro)
+## Gipss (Hissa Dmytro)
 
 Python Developer from Ukraine :ukraine:
 
